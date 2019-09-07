@@ -10,6 +10,7 @@
           <excludedPaths>
             <excludedPath path="/html/vendor" />
             <excludedPath path="/html/node_modules" />
+            <excludedPath local="true" path="/html.env" />
           </excludedPaths>
         </serverdata>
       </paths>
