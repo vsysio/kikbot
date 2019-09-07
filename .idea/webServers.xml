@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a1cfe18-2188-4718-9d3d-b9b65cf7ddc4" name="local vm" url="https://kikbot.vsysio.net">
+        <fileTransfer host="kikbot.vsysio.net" port="22" privateKey="C:\Users\BrandonGould\.ssh\kikbot" rootFolder="/var/www" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
